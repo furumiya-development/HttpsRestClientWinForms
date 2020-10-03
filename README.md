@@ -2,7 +2,7 @@
 ___
 #### 環境
 ```
-開発環境：Microsoft Visual Studio 2019 Community Edition 16.7.3  
+開発環境：Microsoft Visual Studio 2019 Community Edition 16.7.5  
 フレームワーク：.NET Core 3.1.8  
 デベロッパーパック：.NET Core SDK 3.1.402  
 言語：C#.NET 8.0  
