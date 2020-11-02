@@ -13,7 +13,7 @@ using System.Net.Http;
 namespace HttpsRestClientWinForms
 {
     /// <summary>メインフォーム</summary>
-    /// <remarks>Nuget Package : Install-Package Microsoft.Extensions.Http -Version 3.1.5</remarks>
+    /// <remarks>Nuget Package : Install-Package Microsoft.Extensions.Http -Version 3.1.9</remarks>
     public partial class Form1 : Form
     {
         private static System.Net.Http.HttpClient httpClient;

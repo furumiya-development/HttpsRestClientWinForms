@@ -24,3 +24,4 @@ C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\netcoreapp3.1\HttpsRestClientWinForms.dll
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\netcoreapp3.1\HttpsRestClientWinForms.pdb
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\netcoreapp3.1\HttpsRestClientWinForms.genruntimeconfig.cache
+C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\netcoreapp3.1\HttpsRestClientWinForms.csprojAssemblyReference.cache

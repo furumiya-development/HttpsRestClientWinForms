@@ -10,7 +10,7 @@ namespace HttpsRestClientWinForms
     static class Program
     {
         /// <summary>アプリケーションのメインエントリポイント</summary>
-        /// <remarks>Nuget Package : Install-Package Microsoft.Extensions.DependencyInjection -Version 3.1.5</remarks>
+        /// <remarks>Nuget Package : Install-Package Microsoft.Extensions.DependencyInjection -Version 3.1.9</remarks>
         [STAThread]
         static void Main()
         {
