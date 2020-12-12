@@ -12,7 +12,6 @@ C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\bin\Release\
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\bin\Release\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\bin\Release\net5.0-windows\Microsoft.Extensions.Options.dll
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\bin\Release\net5.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\net5.0-windows\HttpsRestClientWinForms.csprojAssemblyReference.cache
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\net5.0-windows\HttpsRestClientWinForms.Form1.resources
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\net5.0-windows\HttpsRestClientWinForms.FormAuth.resources
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Release\net5.0-windows\HttpsRestClientWinForms.csproj.GenerateResource.cache
