@@ -2,9 +2,9 @@
 ___
 #### 環境
 ```
-開発環境：Microsoft Visual Studio 2019 Community Edition 16.8.4  
-フレームワーク：.NET Core 5.0.2  
-デベロッパーパック：.NET Core SDK 5.0.102  
+開発環境：Microsoft Visual Studio 2019 Community Edition 16.8.5  
+フレームワーク：.NET Core 5.0.3  
+デベロッパーパック：.NET Core SDK 5.0.103  
 言語：C#.NET 8.0  
 デスクトップ：Windows Forms  
 NuGetライブラリー：Microsoft.Extensions.DependencyInjection 5.0.1  
