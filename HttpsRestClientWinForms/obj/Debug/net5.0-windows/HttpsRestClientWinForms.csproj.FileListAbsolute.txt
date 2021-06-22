@@ -24,3 +24,4 @@ C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Debug\ne
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Debug\net5.0-windows\ref\HttpsRestClientWinForms.dll
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Debug\net5.0-windows\HttpsRestClientWinForms.pdb
 C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Debug\net5.0-windows\HttpsRestClientWinForms.genruntimeconfig.cache
+C:\Workspace\DotNet\HttpsRestClientWinForms\HttpsRestClientWinForms\obj\Debug\net5.0-windows\HttpsRestClientWinForms.csproj.AssemblyReference.cache
